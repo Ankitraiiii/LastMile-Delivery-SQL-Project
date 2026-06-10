@@ -1,0 +1,6 @@
+Dataset: Brazilian E-Commerce Public Dataset by Olist
+Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+Tables Used: olist_orders_dataset, olist_customers_dataset,
+             olist_order_items_dataset, olist_order_reviews_dataset,
+             olist_sellers_dataset
+Total Records: ~100,000 orders
